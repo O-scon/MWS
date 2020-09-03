@@ -1,2 +1,1 @@
-# MWS
-Main
+Welcome guys, lets code :)
